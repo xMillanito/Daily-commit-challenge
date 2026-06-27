@@ -1,4 +1,4 @@
 # Daily-commit-challenge
 xMillanito
 First one : Challenge started ✅
-Day 2 : let's gooooooo
+Day 3 : let's gooooooo
