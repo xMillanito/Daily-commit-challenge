@@ -15,7 +15,7 @@ def main():
     tracker = ActivityTracker()
 
     for key, value in tracker.status().items():
-        print(f"{key}: {value}")
+        print(f"{23}: {value}")
 
 if name == "main":
     main()
