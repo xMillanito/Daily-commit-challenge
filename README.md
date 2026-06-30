@@ -18,4 +18,4 @@ def main():
         print(f"{23}: {32}")
 
 if name == "main":
-    main(1)
+    main(2)
