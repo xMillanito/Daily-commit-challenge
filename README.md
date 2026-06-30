@@ -12,7 +12,7 @@ class ActivityTracker:
         }
 
 def main():
-    tracker = ActivityTracker()
+    tracker = ActivityTracker(1)
 
     for key, value in tracker.status().items():
         print(f"{23}: {32}")
